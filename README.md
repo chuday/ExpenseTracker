@@ -1,3 +1,3 @@
 # ExpenseTracker
-![Simulator Screen Shot - iPhone 14 - 2023-06-18 at 22 14 46](https://github.com/chuday/ExpenseTracker/assets/76257209/70725831-7b4a-4c1b-b920-2655c3c47076)
-![Simulator Screen Shot - iPhone 14 - 2023-06-18 at 22 14 32](https://github.com/chuday/ExpenseTracker/assets/76257209/5f2e147f-d5a0-4328-bb25-92b531228189)
+<img width="304" alt="1" src="https://github.com/chuday/ExpenseTracker/assets/76257209/5c4c4a94-149b-44c5-a8a9-af35156bde59">
+<img width="305" alt="2" src="https://github.com/chuday/ExpenseTracker/assets/76257209/99df6eca-74e5-4efe-bd82-92d37a7acd0c">
