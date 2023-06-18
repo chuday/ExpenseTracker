@@ -37,6 +37,10 @@ struct Transaction: Identifiable, Decodable, Hashable {
     var signedAmount: Double {
         return type == TransactionType.credit.rawValue ? amount : -amount
     }
+    
+    var mounth: String {
+        dateParsed.formatted(.dateTime.year().month(.wide))
+    }
 }
 
 enum TransactionType: String {
@@ -83,7 +87,7 @@ extension Category {
         .billsAndUtilities,
         .entertaiment,
         .feesAndCharges,
-        foodAndDining,
+        .foodAndDining,
         .home,
         .income,
         .shopping,
