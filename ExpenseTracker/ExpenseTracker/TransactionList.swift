@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct TransactionList: View {
+    
     @EnvironmentObject var transactionListVM: TransactionListViewModel
     
     var body: some View {

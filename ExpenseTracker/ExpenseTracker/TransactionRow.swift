@@ -38,7 +38,6 @@ struct TransactionRow: View {
                     .font(.footnote)
                     .foregroundColor(.secondary)
             }
-            
             Spacer()
             
             Text(transaction.signedAmount, format: .currency(code: "USD"))
